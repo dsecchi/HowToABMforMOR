@@ -14,8 +14,6 @@ to go
 end
 
 
-; Copyright 2005 Uri Wilensky.
-; See Info tab for full copyright and license.
 @#$#@#$#@
 GRAPHICS-WINDOW
 195
